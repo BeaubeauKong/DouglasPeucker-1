@@ -1,0 +1,10 @@
+E:\学习\GIS算法基础\0926\道格拉斯—普克法\道格拉斯—普克法\bin\Debug\道格拉斯—普克法.exe.config
+E:\学习\GIS算法基础\0926\道格拉斯—普克法\道格拉斯—普克法\bin\Debug\道格拉斯—普克法.exe
+E:\学习\GIS算法基础\0926\道格拉斯—普克法\道格拉斯—普克法\bin\Debug\道格拉斯—普克法.pdb
+E:\学习\GIS算法基础\0926\道格拉斯—普克法\道格拉斯—普克法\obj\Debug\道格拉斯—普克法.csprojResolveAssemblyReference.cache
+E:\学习\GIS算法基础\0926\道格拉斯—普克法\道格拉斯—普克法\obj\Debug\道格拉斯_普克法.Properties.Resources.resources
+E:\学习\GIS算法基础\0926\道格拉斯—普克法\道格拉斯—普克法\obj\Debug\道格拉斯—普克法.csproj.GenerateResource.Cache
+E:\学习\GIS算法基础\0926\道格拉斯—普克法\道格拉斯—普克法\obj\Debug\道格拉斯—普克法.csproj.CoreCompileInputs.cache
+E:\学习\GIS算法基础\0926\道格拉斯—普克法\道格拉斯—普克法\obj\Debug\道格拉斯—普克法.exe
+E:\学习\GIS算法基础\0926\道格拉斯—普克法\道格拉斯—普克法\obj\Debug\道格拉斯—普克法.pdb
+E:\学习\GIS算法基础\0926\道格拉斯—普克法\道格拉斯—普克法\obj\Debug\道格拉斯_普克法.DouglasPeucker.resources
